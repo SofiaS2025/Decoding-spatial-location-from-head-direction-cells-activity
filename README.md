@@ -1,5 +1,7 @@
+# Project description
 This project focuses on building a decoder of spatial location or directionality given the activity of head-direction cells.
 
+#Files explanation
 The main experiment consists in the decoding of the activity of HD cells recorded over a period of time T.
 The main experiment is decoder_without_AVtuning and running_experiment (both WITHOUT angular velocity tuning). 
 
