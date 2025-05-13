@@ -5,7 +5,7 @@ This project focuses on building a decoder of spatial location or directionality
 The main experiment consists in the decoding of the activity of HD cells recorded over a period of time T.
 The main experiment is decoder_without_AVtuning and running_experiment (both WITHOUT angular velocity tuning). 
 
-functions_file reposrts the fucntions using in the encoding and decoding phases.
+functions_file reposrts the functions using in the encoding and decoding phases.
 experiment_multiple_runs runs the main experiment multiple times (multiple recordings).
 
 alpha_dependance_parameters present in the same graph the curves alpha-MSE given a variation of paramters mu, k, dt_enc.
